@@ -1,0 +1,11 @@
+﻿  TA-Project1.cpp
+H:\Visual Studio\Projects - 2019\TA-Project1\TA-Project1\TA-Project1.cpp(96,21): warning C4018: '<': signed/unsigned mismatch
+H:\Visual Studio\Projects - 2019\TA-Project1\TA-Project1\TA-Project1.cpp(98,22): warning C4018: '<': signed/unsigned mismatch
+H:\Visual Studio\Projects - 2019\TA-Project1\TA-Project1\TA-Project1.cpp(110,21): warning C4018: '<': signed/unsigned mismatch
+H:\Visual Studio\Projects - 2019\TA-Project1\TA-Project1\TA-Project1.cpp(267,22): warning C4018: '<': signed/unsigned mismatch
+H:\Visual Studio\Projects - 2019\TA-Project1\TA-Project1\TA-Project1.cpp(290,20): warning C4018: '<': signed/unsigned mismatch
+H:\Visual Studio\Projects - 2019\TA-Project1\TA-Project1\TA-Project1.cpp(296,22): warning C4018: '<': signed/unsigned mismatch
+H:\Visual Studio\Projects - 2019\TA-Project1\TA-Project1\TA-Project1.cpp(313,22): warning C4018: '<': signed/unsigned mismatch
+H:\Visual Studio\Projects - 2019\TA-Project1\TA-Project1\TA-Project1.cpp(330,24): warning C4018: '<': signed/unsigned mismatch
+H:\Visual Studio\Projects - 2019\TA-Project1\TA-Project1\TA-Project1.cpp(333,24): warning C4018: '<': signed/unsigned mismatch
+  TA-Project1.vcxproj -> H:\Visual Studio\Projects - 2019\TA-Project1\Debug\TA-Project1.exe
